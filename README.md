@@ -1,5 +1,5 @@
 # Credit Risk Analysis: IFRS 9 ECL Model  
-**Author:** Sebastian Gonzalez  
+**Author:** Nava Bhargav
 
 ## Project Overview  
 This project implements IFRS 9 Expected Credit Loss (ECL) modeling using the Credit Risk Dataset from Lao Tse (Kaggle). Key components:  
@@ -15,6 +15,6 @@ This project implements IFRS 9 Expected Credit Loss (ECL) modeling using the Cre
 ## Setup Instructions  
 1. **Clone the repository**:  
    ```bash  
-    git clone https://github.com/sebastian-gm/credit_risk_IFRS9_ECL_model.git
+    git clone https://github.com/Navabhargav/Credit-Risk-Analysis-IFRS-9-ECL-Model
 
   
